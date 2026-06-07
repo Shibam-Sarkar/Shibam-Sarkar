@@ -60,6 +60,7 @@
 |---------|-------------|------|
 | [💬 socket-chat-app](https://github.com/Shibam-Sarkar/socket-chat-app) | Real-time chat with WebSockets & Socket.io | JS, Node.js |
 | [🧠 DSA-in-c](https://github.com/Shibam-Sarkar/DSA-in-c) | Data structures & algorithms in C | C |
+| [📝 DSA-Solutions](https://github.com/Shibam-Sarkar/DSA-Solutions) | LeetCode problems solved in C/C++ | C, C++ |
 
 ---
 
